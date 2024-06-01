@@ -2,6 +2,8 @@
 
 How to install the comfort strap for the Grado series of headphones!
 
+Video Can be found [HERE](https://youtu.be/PjRdCPBPi30)
+
 1. First remove the Retaining cap off of the adjustment rods.
 
 ![20240601_154213](https://github.com/CapraAudio/CapraStrapra-Grado/assets/122894651/9356a49d-69cf-4661-a812-c441f20a5cac)
