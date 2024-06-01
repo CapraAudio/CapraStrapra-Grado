@@ -9,7 +9,7 @@ This Comfort Strap is designs for the Grado series headphones. <p>This should fi
 
 ## Premade Straps
 
-You can purchase a premade version [here on our etsy page](https://www.etsy.com/listing/1401186654/sennheiser-6x0-comfort-strap)!<br>**Do note that you will still have to install it yourself**, though all necessary parts will be 3d printed before shipping.
+You can purchase a premade version [here on our etsy page](https://www.etsy.com/listing/1740823857/grado-comfort-strap?)!<br>**Do note that you will still have to install it yourself**, though all necessary parts will be 3d printed before shipping.
 
 ---
 
