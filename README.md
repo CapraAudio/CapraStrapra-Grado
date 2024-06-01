@@ -2,6 +2,8 @@
 
 This Comfort Strap is designs for the Grado series headphones. <p>This should fit on all Grado headphones as they all share the same adjustment mechanism.<br><p>Reach out on our [support discord](https://discord.com/invite/fb4HdDvErF) if you have any problems!<br>
 
+![20240601_160736](https://github.com/CapraAudio/CapraStrapra-Grado/assets/122894651/fd8cd6e2-0813-4a8a-9cef-2a3e451ca530)
+
 
 ---
 
